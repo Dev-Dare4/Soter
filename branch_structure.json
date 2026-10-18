@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "issue-1367-explicit-verification-cache-expiry",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "issue-1367-explicit-verification-cache-expiry": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "issue-1367-explicit-verification-cache-expiry",
+    "origin"
+  ]
+}
